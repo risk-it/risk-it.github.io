@@ -5,21 +5,20 @@ title: Team
 
 ---
 
-# Katie Pine 
-
-{% include module.html image_path="./assets/imgs/katie_pine.jpeg" title="Some title text" description="Some more text that will appear to the left of the image." %}
-
 
 # Katie Pine 
-Katie Pine is an Assistant Professor in the College of Health Solutions at Arizona State University. Her interdisciplinary work lies at the intersection of health informatics, human-computer interaction (HCI), computer supported cooperative work (CSCW), and organization studies. She draws on and contributes to these fields with a focus on technology and work in the context of healthcare. Her work specifically examines how people use information and communications technologies (ICTs) as part of healthcare practice and how the design of ICTs, the contexts of ICT use, and the ways that people use ICTs impact how people give and receive healthcare. Pine has an ongoing stream of research examining data work, the situated social, technical, and organizational practices through which data are created, managed, and deployed. She utilizes primarily qualitative methods and collaborates to conduct team-based mixed methods studies and action research in concert with community and clinical partners. 
 
- <img src="./assets/imgs/katie_pine.jpeg" width="400px">
+
+![image](./assets/imgs/katie_pine.jpeg){: style="float: left"; margin-right: 10em; height="25%" width="25%"} Katie Pine is an Assistant Professor in the College of Health Solutions at Arizona State University. Her interdisciplinary work lies at the intersection of health informatics, human-computer interaction (HCI), computer supported cooperative work (CSCW), and organization studies. She draws on and contributes to these fields with a focus on technology and work in the context of healthcare. Her work specifically examines how people use information and communications technologies (ICTs) as part of healthcare practice and how the design of ICTs, the contexts of ICT use, and the ways that people use ICTs impact how people give and receive healthcare. Pine has an ongoing stream of research examining data work, the situated social, technical, and organizational practices through which data are created, managed, and deployed. She utilizes primarily qualitative methods and collaborates to conduct team-based mixed methods studies and action research in concert with community and clinical partners. 
+
+
 
 # Yunan Chen 
 
 Yunan Chen is an associate professor of Informatics at Donald Bren School of Information and Computer Sciences at the University of California, Irvine (UCI), with an adjunct appointment in the Program in Public Health, College of Health Sciences. Her area of research lies at the intersection of human–computer interaction (HCI), computer supported cooperative work (CSCW), and health informatics. As a physician by training, she is interested in studying how health information is generated, managed, shared, and utilized to drive better care in both clinical and patient-oriented settings. In particular, she studies how end users (i.e., frontline clinicians, patients, and caregivers) interact with computerized technology. Her work reveals critical design problems that are not compatible with end users’ workflow and preferences and provides design insights to overcome these issues.
 
- <img src="./assets/imgs/yunan_chen.jpeg" width="400px">
+ <img src="./assets/imgs/yunan_chen.jpeg" width="400px"
+     style="float: right; margin-right: 10px;" />
 
 # Melissa Mazmanian 
 
