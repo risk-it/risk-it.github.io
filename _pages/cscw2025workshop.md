@@ -1,7 +1,7 @@
 ---
-permalink: /cscw2025workshop.md
+permalink: /cscw2025workshop
 layout: page
-title: CSCW 2025&colon; Risk Work Workshop
+title: CSCW 2025 Risk Work Workshop
 
 headw: 400
 headh: 400
