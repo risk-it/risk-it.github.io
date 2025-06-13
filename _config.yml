@@ -16,7 +16,7 @@ header_pages:
   - _pages/frontpage.md
   - _pages/partners.md
   - _pages/authors.md
-  - _pages/cscw2025workshop.md
+  # - _pages/cscw2025workshop.md
 
 include:
     - _pages

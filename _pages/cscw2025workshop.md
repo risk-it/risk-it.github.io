@@ -1,5 +1,5 @@
 ---
-permalink: /cscw2025workshop
+permalink: /cscw2025workshoptest
 layout: page
 title: CSCW 2025 Risk Work Workshop
 
