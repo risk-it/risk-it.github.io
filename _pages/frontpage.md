@@ -66,6 +66,6 @@ Emergency services are at an inflection point. New data tools offer enormous pot
 <div class="logo-row" style="margin-top:40px;">
   <img src="./assets/imgs/logo/nsf.png" alt="National Science Foundation" style="height:85px;">
   <img src="./assets/imgs/logo/asu.png" alt="Arizona State University" style="height:80px;max-width:220px;">
-  <img src="./assets/imgs/logo/gmu.png" alt="George Mason University" style="height:75px;">
+  <img src="./assets/imgs/logo/gmu.png" alt="George Mason University" style="height:90px;">
   <img src="./assets/imgs/logo/uci-logo.png" alt="UC Irvine" style="height:45px;max-width:140px;">
 </div>
