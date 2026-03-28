@@ -64,8 +64,8 @@ Fire departments across the U.S. are facing a growing challenge: 911 calls keep 
 Emergency services are at an inflection point. New data tools offer enormous potential to prevent emergencies before they happen -- like connecting opioid overdose patients to treatment to prevent recurrence. But these tools must be designed carefully to avoid unintended consequences for workers, work practices, and the communities they serve.
 
 <div class="logo-row" style="margin-top:40px;">
-  <img src="./assets/imgs/logo/nsf.png" alt="National Science Foundation">
-  <img src="./assets/imgs/logo/asu.png" alt="Arizona State University" style="height:75px;max-width:200px;">
-  <img src="./assets/imgs/logo/gmu.png" alt="George Mason University">
-  <img src="./assets/imgs/logo/uci-logo.png" alt="UC Irvine" style="height:55px;max-width:160px;">
+  <img src="./assets/imgs/logo/nsf.png" alt="National Science Foundation" style="height:85px;">
+  <img src="./assets/imgs/logo/asu.png" alt="Arizona State University" style="height:80px;max-width:220px;">
+  <img src="./assets/imgs/logo/gmu.png" alt="George Mason University" style="height:75px;">
+  <img src="./assets/imgs/logo/uci-logo.png" alt="UC Irvine" style="height:45px;max-width:140px;">
 </div>
