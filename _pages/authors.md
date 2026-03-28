@@ -2,58 +2,80 @@
 permalink: /authors
 layout: page
 title: Team
-
-headw: 400
-headh: 400
-headm: 20
 ---
 
+<div class="team-grid">
 
-# Katie Pine 
+<div class="team-card">
+  <img src="./assets/imgs/katie_pine.jpeg" alt="Katie Pine">
+  <div class="team-card-body">
+    <h3>Katie Pine</h3>
+    <div class="team-role">Associate Professor, Arizona State University</div>
+    <p>Katie Pine is an Associate Professor in the College of Health Solutions at Arizona State University. Her interdisciplinary work lies at the intersection of health informatics, human-computer interaction (HCI), computer supported cooperative work (CSCW), and organization studies. She draws on and contributes to these fields with a focus on technology and work in the context of healthcare. Her work specifically examines how people use information and communications technologies (ICTs) as part of healthcare practice and how the design of ICTs, the contexts of ICT use, and the ways that people use ICTs impact how people give and receive healthcare.</p>
+  </div>
+</div>
 
- <img src="./assets/imgs/katie_pine.jpeg" width="400px" 
- style="float: right; margin-right: 10px;" />
+<div class="team-card">
+  <img src="./assets/imgs/yunan_chen.jpeg" alt="Yunan Chen">
+  <div class="team-card-body">
+    <h3>Yunan Chen</h3>
+    <div class="team-role">Professor, UC Irvine</div>
+    <p>Yunan Chen is an associate professor of Informatics at Donald Bren School of Information and Computer Sciences at the University of California, Irvine (UCI), with an adjunct appointment in the Program in Public Health, College of Health Sciences. Her area of research lies at the intersection of human-computer interaction (HCI), computer supported cooperative work (CSCW), and health informatics. As a physician by training, she is interested in studying how health information is generated, managed, shared, and utilized to drive better care in both clinical and patient-oriented settings.</p>
+  </div>
+</div>
 
+<div class="team-card">
+  <img src="./assets/imgs/Myeong.jpg" alt="Myeong Lee">
+  <div class="team-card-body">
+    <h3>Myeong Lee</h3>
+    <div class="team-role">Assistant Professor, George Mason University</div>
+    <p>Myeong Lee is an Assistant Professor of Information Science and the Director of Community Informatics Lab (CIL) at the Department of Information Sciences and Technology at George Mason University. His research interests are in understanding the dynamics of local communities, technology-enabled groups, and information inequality. Through developing theories of information access and leveraging computational approaches, he aims to help reduce information inequality and contribute to civic engagement, policy-making, socio-technical systems theories, and information access.</p>
+  </div>
+</div>
 
- Katie Pine is an Assistant Professor in the College of Health Solutions at Arizona State University. Her interdisciplinary work lies at the intersection of health informatics, human-computer interaction (HCI), computer supported cooperative work (CSCW), and organization studies. She draws on and contributes to these fields with a focus on technology and work in the context of healthcare. Her work specifically examines how people use information and communications technologies (ICTs) as part of healthcare practice and how the design of ICTs, the contexts of ICT use, and the ways that people use ICTs impact how people give and receive healthcare. Pine has an ongoing stream of research examining data work, the situated social, technical, and organizational practices through which data are created, managed, and deployed. She utilizes primarily qualitative methods and collaborates to conduct team-based mixed methods studies and action research in concert with community and clinical partners. 
+<div class="team-card">
+  <img src="./assets/imgs/mauricio-mejia-600x.png" alt="Mauricio Mejia">
+  <div class="team-card-body">
+    <h3>Mauricio Mejia</h3>
+    <div class="team-role">Associate Professor, Arizona State University</div>
+    <p>G. Mauricio Mejia is a strategic design practitioner and scholar. He currently is Associate Professor of Design and Assistant Director of Research and Knowledge Enterprise for The Design School at Arizona State University. His current work is about strategic design and theories of change. He often collaborates with practitioners and researchers in other fields such as health, sustainability, business, and education.</p>
+  </div>
+</div>
 
+<div class="team-card">
+  <img src="./assets/imgs/melissa.jpg" alt="Melissa Mazmanian">
+  <div class="team-card-body">
+    <h3>Melissa Mazmanian</h3>
+    <div class="team-role">Professor, UC Irvine</div>
+    <p>Melissa Mazmanian is a Professor and Chancellor's Professor of Informatics at the Donald Bren School of Information and Computer Sciences and, jointly, of Organization and Management at the Merage School of Business at the University of California, Irvine. Melissa's research interests revolve around the use of digital technologies in personal and organizational contexts, specifically in relation to everyday work practice, communication patterns, and the nature of time in the digital age.</p>
+  </div>
+</div>
 
-# Yunan Chen 
+<div class="team-card">
+  <img src="./assets/imgs/rachel_warren.jpg" alt="Rachel Warren">
+  <div class="team-card-body">
+    <h3>Rachel Warren</h3>
+    <div class="team-role">Ph.D. Candidate, UC Irvine</div>
+    <p>Rachel Warren is pursuing a PhD in Informatics at the Donald Bren School of Information and Computer Sciences at the University of California, Irvine (UCI). Her work focuses on the implications of predictive technologies particularly in the public sector. She is also interested in identifying the technology needs of civil servants and is engaged in building technology to help assist investigative journalists and public defenders.</p>
+  </div>
+</div>
 
- <img src="./assets/imgs/yunan_chen.jpeg" width="400px" 
- style="float: right; margin-left: 10px;" />
- 
+<div class="team-card">
+  <img src="./assets/imgs/hiba_siraj.png" alt="Hiba Siraj">
+  <div class="team-card-body">
+    <h3>Hiba Siraj</h3>
+    <div class="team-role">PhD Student, George Mason University</div>
+    <p>Hiba Siraj is a current PhD student in the Information Science and Technology department at George Mason University in Fairfax, Virginia. Her research interests are information behavior in crisis situations, data-driven decision making and human factors in risk management. Prior to this, she received her Master's degree in Telecommunications (majoring in networking protocols and certified in the cloud). She instructed undergraduate engineering and computing courses before starting her doctoral program. She also has industry experience as a System Engineer.</p>
+  </div>
+</div>
 
-Yunan Chen is an associate professor of Informatics at Donald Bren School of Information and Computer Sciences at the University of California, Irvine (UCI), with an adjunct appointment in the Program in Public Health, College of Health Sciences. Her area of research lies at the intersection of human–computer interaction (HCI), computer supported cooperative work (CSCW), and health informatics. As a physician by training, she is interested in studying how health information is generated, managed, shared, and utilized to drive better care in both clinical and patient-oriented settings. In particular, she studies how end users (i.e., frontline clinicians, patients, and caregivers) interact with computerized technology. Her work reveals critical design problems that are not compatible with end users’ workflow and preferences and provides design insights to overcome these issues.
+<div class="team-card">
+  <img src="./assets/imgs/ruchita_mandhre.jpeg" alt="Ruchita Mandhre">
+  <div class="team-card-body">
+    <h3>Ruchita Mandhre</h3>
+    <div class="team-role">Ph.D. Candidate, Arizona State University</div>
+    <p>Ruchita A. Mandhre is pursuing a PhD in Design at the Herberger Institute of Design and the Arts at Arizona State University. Her work focuses on how participatory prototyping can support collaborative work to sustain change. Strategic design futures, design management, co-design, and experiential making are research areas that inform her scholarly work. She holds a Master of Fine Arts in Visual Communication from the University of Illinois at Urbana-Champaign. Before moving to Arizona she worked as a faculty at Illinois State University, and was an instructor for graphic design courses during her time in graduate school. Prior to this she worked at a design research firm based in India.</p>
+  </div>
+</div>
 
-
-# Melissa Mazmanian 
-
- <img src="./assets/imgs/melissa.jpg" width="400px"
-  style="float: right; margin-right: 10px;" />
-
-Melissa Mazmanian is a Professor and Chancellor’s Professor of Informatics at the Donald Bren School of Information and Computer Sciences and, jointly, of Organization and Management at the Merage School of Business at the University of California, Irvine. Melissa’s research interests revolve around the use of digital technologies in personal and organizational contexts, specifically in relation to  everyday work practice, communication patterns, and the nature of time in the digital age. She has published numerous papers in venues such as the Academy of Management Journal, Organization Science, MIS Quarterly, and the ACM conferences on Computer Human Interaction and Computer Supported Cooperative Work. She earned a PhD in Organization Studies from the MIT Sloan School of Management and a Masters in Information Economics, Management and Policy from the University of Michigan, School of Information
-
-
-# Mauricio Mejia
-
- <img src="./assets/imgs/mauricio-mejia-600x.png" width="400px"
- style="float: right; margin-left: 10px;" />
-G. Mauricio Mejía is a strategic design practitioner and scholar. He currently is Associate Professor of Design and Assistant Director of Research and Knowledge Enterprise for The Design School at Arizona State University. His current work is about strategic design and theories of change. He often collaborates with practitioners and researchers in other fields such as health, sustainability, business, and education. Dr. Mejía studies and works with diverse current and emergent design practices and approaches such as design research, visual sense-making, service design, experience design, co-design, and design futures. He received a PhD in Design from the University of Minnesota, Twin Cities, and a Master of Design degree from the University of Cincinnati.
-
-
-# Myeon Lee 
-
- <img src="./assets/imgs/Myeong.jpg" width="400px"
- style="float: right; margin-left: 10px;" />
-
-Myeong Lee is an Assistant Professor of Information Science and the Director of Community Informatics Lab (CIL) at the Department of Information Sciences and Technology at George Mason University. His research interests are in understanding the dynamics of local communities, technology-enabled groups, and information inequality. Though developing theories of information access and leveraging computational approaches, he aims to help reduce information inequality and contribute to civic engagement, policy-making, socio-technical systems theories, and information access. He earned a Ph.D. in Information Studies and a Master of Information Management from the University of Maryland's iSchool; he also received MS in Software Engineering and BS in Electrical Engineering degrees from Seoul National University in South Korea. 
-
-
-# Rachel Warren 
-
- <img src="./assets/imgs/rachel_warren.jpg" width="400px"
-  style="float: right; margin-left: 10px;" />
-
-Rachel Warren is pursuing a PHD in Informatics at the Donald Bren School of Information and Computer Sciences at the University of California, Irvine (UCI). Her work focuses on the implications of predictive technologies particularly the public sector. She is also interested in identifying the technology needs of civil servants and is engaged in building technology to help assist investigative journalists and public defenders. Prior to her academic work Rachel worked as a machine learning engineer and data scientist in industry most recently at Salesforce. She has a masters of Information Systems from the UC Berkley School of Information and a bachelors in Computer Science from Wesleyan University.
-
+</div>

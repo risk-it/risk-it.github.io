@@ -1,4 +1,4 @@
-title: "Risk IT: The Future of Risk Work"
+title: "Risk IT in Fire Dept."
 description: Understanding the Present and Designing the Future of Data-Intensive ‘Risk Work’ in Emergency Services
 
 theme: minima
@@ -13,7 +13,7 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
+  - _pages/about.md
   - _pages/partners.md
   - _pages/authors.md
   # - _pages/cscw2025workshop.md

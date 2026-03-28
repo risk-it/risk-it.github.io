@@ -1,23 +1,71 @@
 ---
 permalink: /
-layout: page
-title: About
-list_title: About
+layout: default
 ---
 
-# Understanding the Present and Designing the Future of Data-Intensive "Risk Work" in Emergency Services
+<div class="hero-section" markdown="1">
 
-Most U.S. cities are served by all-hazards fire departments, staffed by fire personnel who provide a range of services to address and prevent medical, community health, safety, and fire emergencies. Traditionally, fire personnel rely on a combination of expert systems, organizational processes, and professional intuition honed through experience to identify and mitigate the risks they are tasked with handling. Presently, fire departments are struggling to stay abreast of a changing mission characterized by a continuous increase in  911 calls for diverse medical cases, while budgets stay flat. On the ground, fire departments are concerned with finding novel ways to prevent medical emergencies before they happen in the first place through mitigating risks upstream before they turn into chronic 911 calls and catastrophic events; for example, by getting opioid overdose patients into addiction treatment services, thus preventing a recurrent overdose. As ICTs with expanded capabilities for data collection, storage, and advanced analytics become widely available, the risk-work -- defined as working practices framed by risk -- done by emergency services will evolve and transform. Emerging data-intensive IT offers the potential to advance this risk-work by augmenting practices of identifying risks, translating risk knowledge, and managing risks at the individual, organizational, and institutional level, but the tools and sociotechnical practices necessary to do so have been slow to come; such tools and practices must further be designed with careful attention to potentially-negative, unintended consequences for work practice (e.g. increased data work), workers (e.g., increased disparities in risk knowledge), and communities (e.g., intensified surveillance of already surveilled populations) ,. This project has multiple goals to be achieved through three phases. First, we will document current practices of “risk-work” and risk-relevant data resources using in-depth ethnographic research in three fire departments in different contexts across the U.S. Second, we will co-design speculative prototypes for data-intensive sociotechnical risk-work tools and practices with our field sites. Third, we will bring design prototypes to a broad emergency services audience at a national conference to gather feedback and understand how our prototypes shift visions of the future for emergency services personnel.
+# Understanding the Present and Designing the Future of Risk Prediction IT in Fire Departments
 
-## Support 
+An NSF-funded research project investigating how fire departments identify, translate, and manage risks -- and how data-intensive technologies can transform emergency services.
 
-<img src="./assets/imgs/logo/nsf.png" width="100px"/>
+</div>
 
-<img src="./assets/imgs/logo/uci-logo.png" width="100px" style="float"/>
+## What We Do
 
-<img src="./assets/imgs/logo/asu.png" width="100px"  style="float" />
+Fire departments across the U.S. are facing a growing challenge: 911 calls keep rising while budgets stay flat. Our project studies how fire personnel do **risk work** -- the practices through which they assess, manage, and mitigate potential harms -- and how emerging technologies can support this work responsibly.
 
-<img src="./assets/imgs/logo/gmu.png" width="100px"  style="float">
+## Our Approach
 
-## Contact Us
+<div class="approach-grid">
+  <div class="approach-card">
+    <div class="approach-icon">
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#c0392b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </div>
+    <h3>Understand</h3>
+    <ul>
+      <li>Ethnographic fieldwork in fire departments</li>
+      <li>Document current risk work practices</li>
+      <li>Map data resources and workflows</li>
+    </ul>
+  </div>
+  <div class="approach-arrow">
+    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#ccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+  </div>
+  <div class="approach-card">
+    <div class="approach-icon">
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#c0392b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+    </div>
+    <h3>Co-Design</h3>
+    <ul>
+      <li>Collaborate with fire department partners</li>
+      <li>Prototype data-intensive tools</li>
+      <li>Iterate on sociotechnical practices</li>
+    </ul>
+  </div>
+  <div class="approach-arrow">
+    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#ccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+  </div>
+  <div class="approach-card">
+    <div class="approach-icon">
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#c0392b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+    </div>
+    <h3>Evaluate</h3>
+    <ul>
+      <li>Gather broad feedback from EMS personnel</li>
+      <li>Test prototypes at national conferences</li>
+      <li>Assess impact on future visions</li>
+    </ul>
+  </div>
+</div>
 
+## Why It Matters
+
+Emergency services are at an inflection point. New data tools offer enormous potential to prevent emergencies before they happen -- like connecting opioid overdose patients to treatment to prevent recurrence. But these tools must be designed carefully to avoid unintended consequences for workers, work practices, and the communities they serve.
+
+<div class="logo-row" style="margin-top:40px;">
+  <img src="./assets/imgs/logo/nsf.png" alt="National Science Foundation">
+  <img src="./assets/imgs/logo/uci-logo.png" alt="UC Irvine" style="height:80px;max-width:180px;">
+  <img src="./assets/imgs/logo/asu.png" alt="Arizona State University">
+  <img src="./assets/imgs/logo/gmu.png" alt="George Mason University" style="height:80px;max-width:200px;">
+</div>
