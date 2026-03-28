@@ -48,7 +48,7 @@ This project is funded by the **National Science Foundation (NSF)**.
 
 <div class="logo-row">
   <img src="./assets/imgs/logo/nsf.png" alt="National Science Foundation">
-  <img src="./assets/imgs/logo/uci-logo.png" alt="UC Irvine" style="height:80px;max-width:180px;">
-  <img src="./assets/imgs/logo/asu.png" alt="Arizona State University">
-  <img src="./assets/imgs/logo/gmu.png" alt="George Mason University" style="height:80px;max-width:200px;">
+  <img src="./assets/imgs/logo/asu.png" alt="Arizona State University" style="height:75px;max-width:200px;">
+  <img src="./assets/imgs/logo/gmu.png" alt="George Mason University">
+  <img src="./assets/imgs/logo/uci-logo.png" alt="UC Irvine" style="height:55px;max-width:160px;">
 </div>
