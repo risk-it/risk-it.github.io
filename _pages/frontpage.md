@@ -9,6 +9,15 @@ layout: default
 
 An NSF-funded research project investigating how fire departments identify, translate, and manage risks -- and how data-intensive technologies can transform emergency services.
 
+<div class="nsf-info" markdown="1">
+
+**NSF Award: Collaborative Research: HCC: Medium**  
+*Understanding the Present and Designing the Future of Risk Prediction IT in Fire Departments*  
+Program: Human-Centered Computing (HCC) \| Period: August 2022 -- July 2026  
+[#2211359](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211359) (Arizona State University) \| [#2211360](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211360) (George Mason University) \| [#2211361](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211361) (UC Irvine)
+
+</div>
+
 </div>
 
 ## What We Do

@@ -99,6 +99,20 @@ body {
   line-height: 1.8;
 }
 
+.nsf-info {
+  background: rgba(255,255,255,0.1);
+  border-radius: 6px;
+  padding: 16px 20px;
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 1.7;
+  color: rgba(255,255,255,0.85);
+}
+.nsf-info strong { color: #fff; }
+.nsf-info em { color: rgba(255,255,255,0.75); }
+.nsf-info a { color: #f8c471; text-decoration: none; }
+.nsf-info a:hover { text-decoration: underline; }
+
 /* Support logos row */
 .logo-row {
   display: flex;
