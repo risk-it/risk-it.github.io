@@ -16,20 +16,20 @@ title: Team
 </div>
 
 <div class="team-card">
-  <img src="./assets/imgs/yunan_chen.jpeg" alt="Yunan Chen">
-  <div class="team-card-body">
-    <h3>Yunan Chen</h3>
-    <div class="team-role">Professor, UC Irvine</div>
-    <p>Yunan Chen is an associate professor of Informatics at Donald Bren School of Information and Computer Sciences at the University of California, Irvine (UCI), with an adjunct appointment in the Program in Public Health, College of Health Sciences. Her area of research lies at the intersection of human-computer interaction (HCI), computer supported cooperative work (CSCW), and health informatics. As a physician by training, she is interested in studying how health information is generated, managed, shared, and utilized to drive better care in both clinical and patient-oriented settings.</p>
-  </div>
-</div>
-
-<div class="team-card">
   <img src="./assets/imgs/Myeong.jpg" alt="Myeong Lee">
   <div class="team-card-body">
     <h3>Myeong Lee</h3>
     <div class="team-role">Assistant Professor, George Mason University</div>
     <p>Myeong Lee is an Assistant Professor of Information Science and the Director of Community Informatics Lab (CIL) at the Department of Information Sciences and Technology at George Mason University. His research interests are in understanding the dynamics of local communities, technology-enabled groups, and information inequality. Through developing theories of information access and leveraging computational approaches, he aims to help reduce information inequality and contribute to civic engagement, policy-making, socio-technical systems theories, and information access.</p>
+  </div>
+</div>
+
+<div class="team-card">
+  <img src="./assets/imgs/yunan_chen.jpeg" alt="Yunan Chen">
+  <div class="team-card-body">
+    <h3>Yunan Chen</h3>
+    <div class="team-role">Professor, UC Irvine</div>
+    <p>Yunan Chen is an associate professor of Informatics at Donald Bren School of Information and Computer Sciences at the University of California, Irvine (UCI), with an adjunct appointment in the Program in Public Health, College of Health Sciences. Her area of research lies at the intersection of human-computer interaction (HCI), computer supported cooperative work (CSCW), and health informatics. As a physician by training, she is interested in studying how health information is generated, managed, shared, and utilized to drive better care in both clinical and patient-oriented settings.</p>
   </div>
 </div>
 
